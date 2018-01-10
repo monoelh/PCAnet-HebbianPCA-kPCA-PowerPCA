@@ -1,2 +1,2 @@
 # PC_pl_A-yground
-exploring some PCA stuff implemented with numpy. Including powerPCA, HebbianPCA, kernelPCA and PCAnet
+PCAnet and different PCA methods, implemented with numpy. Including powerPCA, HebbianPCA, kernelPCA and PCAnet
